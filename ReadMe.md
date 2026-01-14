@@ -23,7 +23,7 @@ This project provides a Docker container for running Jupyter Notebooks with .NET
 
 ## Features
 
-![.NET 9](https://img.shields.io/badge/.NET-9.0.203-blueviolet?style=for-the-badge)
+![.NET 10](https://img.shields.io/badge/.NET-10.0-blueviolet?style=for-the-badge)
 ![Anaconda 3](https://img.shields.io/badge/Anaconda-3-darkgreen?style=for-the-badge)
 ![Python 3.12](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge)
 ![Jupyter Python](https://img.shields.io/badge/Jupyter-Python-orange?style=for-the-badge)
