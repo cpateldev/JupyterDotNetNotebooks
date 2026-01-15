@@ -1,12 +1,12 @@
-# Jupyter .NET Notebooks Docker Setup
+# Jupyter Notebooks with .Net Interactive on Docker container
 
-This project provides a Docker container for running Jupyter Notebooks with .NET Interactive, .Net 9 SDK, Anaconda3 and Python 3.12.
+This project provides a Docker container for running Jupyter Notebooks with .NET Interactive, .Net 10 SDK, Anaconda3 and Python 3.12.
 
 > Both dockerfile and docker-compose.yml files are generated using GitHub Copilot and then edited to fix minor bugs and improvements.
 
 ## Table of Contents
 
-- [Jupyter .NET Notebooks Docker Setup](#jupyter-net-notebooks-docker-setup)
+- [Jupyter Notebooks with .Net Interactive on Docker container](#jupyter-notebooks-with-net-interactive-on-docker-container)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [How to setup dev container](#how-to-setup-dev-container)
@@ -29,13 +29,11 @@ This project provides a Docker container for running Jupyter Notebooks with .NET
 ![Jupyter Python](https://img.shields.io/badge/Jupyter-Python-orange?style=for-the-badge)
 ![.NET Interactive](https://img.shields.io/badge/.NET%20Interactive-Enabled-blueviolet?style=for-the-badge)
 
-- .NET SDK 9.0.200
+- .NET SDK 10.0
 - Anaconda with Python 3.12 environment
 - Jupyter Notebook pre-installed
 - .NET Interactive for Jupyter
 - Optimized docker image.
-
-> NOTE: Dockerfile.bak is non-optimized version which shows step by step installation of each tool.
 
 ## How to setup dev container
 
